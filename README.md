@@ -1,7 +1,7 @@
 # Ruby on Rails Tutorial: first application
 This is the first application for
-[*Ruby on Rails Tutorial: From Zero to Deploy*](https://www.railstutorial.org/book/beginning#cha-beginning target="_blank")
-by [Michael Hartl](http://michaelhartl.com/ target="_blank").
+[*Ruby on Rails Tutorial: From Zero to Deploy*](https://www.railstutorial.org/book/beginning#cha-beginning target=_blank)
+by [Michael Hartl](http://michaelhartl.com/ target=_blank).
 
 # You may want READ ME, and follow the link above:
 
